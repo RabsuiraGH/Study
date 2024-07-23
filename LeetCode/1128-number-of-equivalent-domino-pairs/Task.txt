@@ -12,3 +12,10 @@ Example 2:
 
 Input: dominoes = [[1,2],[1,2],[1,1],[1,2],[2,2]]
 Output: 3
+ 
+
+Constraints:
+
+1 <= dominoes.length <= 4 * 104
+dominoes[i].length == 2
+1 <= dominoes[i][j] <= 9
